@@ -15,7 +15,8 @@ Modelo de requisição:
 ```
 
 Modelo de resposta:
-```{
+```
+{
     "name": "John Doe",
     "email": "john@email.com",
     "phone": "(41)90000-0000",
