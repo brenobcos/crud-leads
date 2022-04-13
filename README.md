@@ -3,7 +3,7 @@
 
 ***POST /leads***
 
-Sua rota deve ser capaz de registrar um novo Lead no banco de dados.
+Rota capaz de registrar um novo Lead no banco de dados.
 
 Modelo de requisição:
 ```
