@@ -1,5 +1,9 @@
 # Leads
 
+***Tecnologias utilizadas***
+
+SQLAlchemy, Dataclass, Blueprint, Migrations e Padrão Flask Factory
+
 
 ***POST /leads***
 
