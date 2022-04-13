@@ -2,7 +2,7 @@
 
 ***Tecnologias utilizadas***
 
-SQLAlchemy, Dataclass, Blueprint, Migrations e Padrão Flask Factory
+PostgreSQL, SQLAlchemy, Dataclass, Blueprint, Migrations e Padrão Flask Factory
 
 
 ***POST /leads***
